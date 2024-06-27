@@ -1,3 +1,3 @@
 # Rushikesh-demo-
 This is my first Git Repository.
-Author - Rushikesh
+Author - Rushikesh Patil
